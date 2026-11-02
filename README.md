@@ -1,4 +1,4 @@
-# JailbreakHub
+# ai assis
 [![IMG-0949.jpg](https://i.postimg.cc/qRKzR7jV/IMG-0949.jpg)](https://postimg.cc/ygVVpsMv)
 ## Welcome to the LLM Jailbreak Hub
 
@@ -17,5 +17,4 @@ This hub provides known prompt injection vectors, social engineering patterns, a
 
 ## Maintainers
 
-* Besi81 (nobody else lol)
-
+* Research by ahammed
